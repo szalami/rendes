@@ -1,5 +1,6 @@
 nav ul {
     list-style-type: none;
+    text-align: center;
 }
 nav ul li {
     display: inline-block;
@@ -9,6 +10,7 @@ nav ul li a {
     background-color: bisque;
     padding: 0.5em;
     font-family: sans-serif;
+    color: black;
 }
 nav ul li a:hover {
     background-color: burlywood;
