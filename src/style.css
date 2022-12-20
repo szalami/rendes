@@ -8,7 +8,9 @@ nav ul li a {
     text-decoration: none;
     background-color: bisque;
     padding: 0.5em;
+    font-family: sans-serif;
 }
 nav ul li a:hover {
     background-color: burlywood;
+    color: white;
 }
